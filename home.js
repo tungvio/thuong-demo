@@ -2,4 +2,4 @@
 // Sửa lỗi hiển thị trên di động
 // Hiển thị blogs
 // Hiển thị quảng cáo
-// Dòng lệnh A1
+// Dòng lệnh A12
